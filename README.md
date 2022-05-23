@@ -1,1 +1,3 @@
-# Discord-Bot
+# Discord Bot Learning Project
+
+## Function
