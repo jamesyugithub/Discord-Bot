@@ -1,9 +1,12 @@
 import os
+from pathlib import Path
+
+# 需要下载并安装的库
 import discord
 from discord.ext import commands
-from pathlib import Path
-# For read json file
-import helpers.json_loader
+
+# 导入本地py文件
+import helpers.json_loader # 读取json文件
 # In util.py and it's for eval(), but I didn't add this funciton yet.
 
 # Use current working path and print it in terminal (估计也能用./的方式)
