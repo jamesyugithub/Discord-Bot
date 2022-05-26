@@ -7,7 +7,7 @@ Bot命令符：‘.'
 ### 技能
 
 #### 撒骰子
-命令：`.roll` / `.ssz` / `.random`
+##### 命令：`.roll` / `.ssz` / `.random`
 
 * 占卜
 命令：`.ask` / `.foresee` / `.luck`
