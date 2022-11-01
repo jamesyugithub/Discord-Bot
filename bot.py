@@ -1,6 +1,8 @@
 import os
 from pathlib import Path
 
+# ceshi yixia zhege xingbuxing
+
 # 需要下载并安装的库
 import discord
 from discord.ext import commands
